@@ -21,10 +21,10 @@ pickle.load(open('knn_model', 'rb'))
 
 ## 資料與模型處理依據
 
-### KNN鄰居個數
+### 資料處理-平均數或中位數的取用
 ![plot_1](/asset/Plot_1.png)
 
-### 資料處理-平均數或中位數的取用
+### KNN鄰居個數
 ![plot_2](/asset/Plot_2.png)
 
 
